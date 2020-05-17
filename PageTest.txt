@@ -1,1 +1,1 @@
-page test
+page test has the page details
