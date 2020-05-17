@@ -1,1 +1,1 @@
-page test has the page details
+page test has the various page objects
