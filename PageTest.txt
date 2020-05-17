@@ -1,1 +1,1 @@
-page test has the page details
+no page objects
